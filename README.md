@@ -10,6 +10,8 @@
 
 ### School of Engineering
 
+* [2021-2022 Academic Calendar School of Engineering](https://www.scu.edu/media/school-of-engineering/pdfs/graduate-engineering/2021-2022-GRADUATE-ENGR-ACADEMIC-CALENDAR.pdf)
+
 ### School of Law
 
 ### 选课
