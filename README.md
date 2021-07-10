@@ -18,8 +18,9 @@
 
 * 学校保险及Waive注意事项
 
-Q：学校保险是否可以Waive？
-A：学校保险除非在湾区有直系亲属，学生跟随直系亲属的保险，才可以向学校申请Waive，其余情况不可以更换或者Waive。详情参考：https://www.scu.edu/cowell/insurance/
+  * 学校保险是否可以Waive？
+  
+    学校保险除非在湾区有直系亲属，学生跟随直系亲属的保险，才可以向学校申请Waive，其余情况不可以更换或者Waive。详情参考：https://www.scu.edu/cowell/insurance/
 
 ## Working with SCU
 
