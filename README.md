@@ -1,5 +1,9 @@
 # SCU CSA Guidebook
 
+> 阅读指南
+> 1. 如果有疑问，请先参考并仔细阅读之前的issue
+> 2. 如果问题之前没有被解答，可以开一个新的issue，并复制链接，把问题一起发到群里
+
 ## Study in SCU
 
 ### College of Arts and Sciences
