@@ -42,6 +42,19 @@
 
 ### 课外活动
 
+### 电话卡 & 移动运营商
+
+选择移动运营商之前，请先阅读 [如何选择移动运营商及套餐](https://www.uscreditcardguide.com/how-to-choose-your-wireless-provider-and-plan/) 和issue #4
+
+关于Google Voice
+>  - Google Voice注册时需要一个额外的号码作为验证，这个号码可以在淘宝上买
+>  - Google Voice注册完成后自动生成一个新号号码，只要能翻墙，这个号码就可以收发短信接打电话
+
+[@mementolim](https://github.com/elviswxy/SCU_CSA_Guidebook/issues/4#issue-941193692): 在国内可以购买美国手机卡么？能够收到美国的电话么？飞机降落之后可以直接使用套餐里的流量么？哪个运营商比较推荐呢？
+> - 淘宝可以买到，只要在国内能收短信，就可以用买到的号码注册Google Voice。简历上可填写Google Voice的号码
+> - 美国的号码是可以在运营商之间随意转换的，操作比较简单
+> - 买手机卡之前最好查一下自己的手机是否兼容对应运营商的网络 
+
 ### 二手车&驾照
 
 * 加州笔试每场容易预约，路考可能个人预约会需要排队，如果想尽快预约，也可以找一些第三方预约的人员，他们专门做带你熟悉考试路线以及预约路考的生意。
