@@ -4,7 +4,7 @@
 > 1. 如果有疑问，请先参考并仔细阅读之前的issue
 > 2. 如果问题之前没有被解答，可以开一个新的issue，并复制链接，把问题一起发到群里
 
-## Study in SCU
+## Study at SCU
 
 ### College of Arts and Sciences
 
@@ -28,13 +28,13 @@
   
     学校保险除非在美国有直系亲属，学生作为dependent被亲属的保险覆盖，才可以向学校申请Waive，其余情况不可以更换或者Waive。详情参考：https://www.scu.edu/cowell/insurance/
 
-## Working with SCU
+## Job Hunting at SCU
 
 ### 刷题&面试技巧
 
 ### 实习分享
 
-## Life in SCU
+## Life at SCU
 
 ### 学校宿舍
 
