@@ -1,5 +1,5 @@
 # SCU CSA Guidebook
-
+![GECSA](gecsa_logo.png)
 > 阅读指南
 > 1. 如果有疑问，请先参考并仔细阅读之前的issue
 > 2. 如果问题之前没有被解答，可以开一个新的issue，并复制链接，把问题一起发到群里
@@ -27,6 +27,10 @@
   * 学校保险是否可以Waive？
   
     学校保险除非在美国有直系亲属，学生作为dependent被亲属的保险覆盖，才可以向学校申请Waive，其余情况不可以更换或者Waive。详情参考：https://www.scu.edu/cowell/insurance/
+
+* 学校疫苗接种要求
+
+  * [2021 Santa Clara University Immunization Requirements](https://www.scu.edu/media/offices/cowell-center/pdf/immunizations/Santa-Clara-University-Immunization-Requirements-6.2021.pdf)
 
 ## **Job Hunting at SCU**
 
