@@ -18,6 +18,18 @@
 
 * [2021-2022 Academic Calendar School of Engineering](https://www.scu.edu/media/school-of-engineering/pdfs/graduate-engineering/2021-2022-GRADUATE-ENGR-ACADEMIC-CALENDAR.pdf)
 
+* 选课Tips(From Lisa's Email)
+  > - Fall quarter begins on September 20. Fall tuition is due on August 21.
+  > - All students can register for up to 10 units on ecampus.
+  > - To overload you need to submit an ADD FORM with the department chair's signature and approval. The instructor does not need to sign the form. 
+  > - To enroll in directed research, independent studies and thesis form you need to submit REGISTRATION FORM signed by your professor and department chair.
+  > - If the class you want to enroll in is closed please check if the waitlist is open to add your name. If the class and/or waitlist is closed please check COURSEAVAIL frequently as classes can open again if enrollment changes.
+Reminder if you are on a waitlist that does not mean you are officially enrolled in the class. The department of the class will contact you with a permission number if you are able to enroll. 
+  > - Departments will begin to review the waitlist next week. Please be patient as the waitlist is being reviewed. The deadline to add your name to a wait list is August 27 and you will be notified no later than August 31.
+  > - Please contact your advisor or department chair if you have questions about what classes to enroll in for Fall quarter.
+  > - If you have an F-1 Visa, you can only enroll in 1 online course. All other students can take more than one online course.
+  > - Reminder, Engr 288 (Co-Op Education) is not offered in the summer quarters. The class is only offered in Fall, Winter and Spring quarters. To enroll you must have completed 16 graduate level units (Coen 900 level courses do not count toward the 16 graduate units)
+
 ### **School of Law**
 
 ### **选课**
