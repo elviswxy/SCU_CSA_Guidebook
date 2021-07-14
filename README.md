@@ -4,7 +4,7 @@
 > 1. 如果有疑问，请先参考并仔细阅读之前的issue
 > 2. 如果问题之前没有被解答，可以开一个新的issue，并复制链接，把问题一起发到群里
 
-## Study at SCU
+## **Study at SCU**
 
 ### College of Arts and Sciences
 
@@ -12,15 +12,15 @@
 
 ### School of Education and Counseling Psychology
 
-### School of Engineering
+### **School of Engineering**
 
 * [2021-2022 Academic Calendar School of Engineering](https://www.scu.edu/media/school-of-engineering/pdfs/graduate-engineering/2021-2022-GRADUATE-ENGR-ACADEMIC-CALENDAR.pdf)
 
-### School of Law
+### **School of Law**
 
-### 选课
+### **选课**
 
-### 学校其他相关事项
+### **学校其他相关事项**
 
 * 学校保险及Waive注意事项
 
@@ -28,23 +28,23 @@
   
     学校保险除非在美国有直系亲属，学生作为dependent被亲属的保险覆盖，才可以向学校申请Waive，其余情况不可以更换或者Waive。详情参考：https://www.scu.edu/cowell/insurance/
 
-## Job Hunting at SCU
+## **Job Hunting at SCU**
 
-### 刷题&面试技巧
+### **刷题&面试技巧**
 
-### 实习分享
+### **实习分享**
 
-## Life at SCU
+## **Life at SCU**
 
-### 学校宿舍
+### **学校宿舍**
 
-### 租房
+### **租房**
 
-### 课外活动
+### **课外活动**
 
-### 电话卡 & 移动运营商
+### **电话卡 & 移动运营商**
 
-选择移动运营商之前，请先阅读 [如何选择移动运营商及套餐](https://www.uscreditcardguide.com/how-to-choose-your-wireless-provider-and-plan/) 和issue #4
+选择移动运营商之前，请先阅读 [如何选择移动运营商及套餐](https://www.uscreditcardguide.com/how-to-choose-your-wireless-provider-and-plan/) 和[issue #4](https://github.com/elviswxy/SCU_CSA_Guidebook/issues/4)
 
 关于Google Voice
 >  - Google Voice注册时需要一个额外的号码作为验证，这个号码可以在淘宝上买
@@ -55,7 +55,7 @@
 > - 美国的号码是可以在运营商之间随意转换的，操作比较简单
 > - 买手机卡之前最好查一下自己的手机是否兼容对应运营商的网络 
 
-### 二手车&驾照
+### **二手车 & 驾照**
 
 * 加州笔试每场容易预约，路考可能个人预约会需要排队，如果想尽快预约，也可以找一些第三方预约的人员，他们专门做带你熟悉考试路线以及预约路考的生意。
 
@@ -73,11 +73,11 @@
     星期四	07:00–17:00
     星期五	07:00–17:00
 
-# 关于我们
+# **关于我们**
 
-## GECSA
+## **GECSA**
 
-## 免责声明
+## **免责声明**
 
 * 本页面提供的所有信息内容仅供用户参考与交流，不构成商业建议或其他实际的操作意见。
 * 用户在该页面发表的内容仅表明其个人的立场和观点，并不代表我们的立场或观点。
