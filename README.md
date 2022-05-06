@@ -99,6 +99,7 @@ Reminder if you are on a waitlist that does not mean you are officially enrolled
 
 ## **GECSA**
 ![GECSA公众号](gecsa_wechat.jpg)
+大家如果有对研究生学生工作感兴趣的，也欢迎联系我们～期待更多人的加入
 ## **免责声明**
 
 * 本页面提供的所有信息内容仅供用户参考与交流，不构成商业建议或其他实际的操作意见。
