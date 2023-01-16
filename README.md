@@ -37,6 +37,10 @@ Reminder if you are on a waitlist that does not mean you are officially enrolled
 * 选课顺序
 
   选课顺序：即将毕业学生在前，新生在后，PhD最后。
+  
+* 选课建议
+
+  可参考这个repo, 感谢同学的分享: [CSE选课建议](https://github.com/theRealCourseEvaluationSCU/SCU_MSCSE_Course_Evaluate)
 
 ### **学校其他相关事项**
 
